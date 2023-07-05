@@ -25,7 +25,7 @@
 18. <a href="18.md">Lambda</a>
 19. <a href="19.md">Linq</a>
 
-<h2><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="35px"/>Projeto Conta Bancária</h2>
+<h2><img src="https://i.imgur.com/DNV9Rxu.png" title="source: imgur.com" width="35px"/>Projeto Conta Bancária</h2>
 
 1. <a href="pr01.md">Projeto Conta Bancária - Classe Menu</a>
 2. <a href="pr02.md">Projeto Conta Bancária - Classe Menu - Colorido</a>
@@ -38,7 +38,7 @@
 9. <a href="pr09.md">Projeto Conta Bancária - Classe ContaController - Métodos do CRUD - Parte II</a>
 10. <a href="pr10.md">Projeto Conta Bancária - Classe ContaController - Métodos Bancários</a>
 
-<h2><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="35px"/>Conteúdo Auxiliar</h2>
+<h2><img src="https://i.imgur.com/DNV9Rxu.png" title="source: imgur.com" width="35px"/>Conteúdo Auxiliar</h2>
 
 1. <a href="b01.md">Classe Math</a>
 2. <a href="b02.md">Classe String</a>
@@ -46,8 +46,8 @@
 4. <a href="b04.md">Classes NumberFormat e DecimalFormat</a>
 5. <a href="b05.md">Debug</a>
 
-<!-- <br /><br />
+<br /><br />
 	
+
 <div align="center"><a href="../README.md"><img src="https://i.imgur.com/kfHCxif.png" title="source: imgur.com" width="5%"/></a></div>
 <div align="center">Home</div>
--->
