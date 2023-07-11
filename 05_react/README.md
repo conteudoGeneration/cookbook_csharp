@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://i.imgur.com/AzshGmS.png" title="source: imgur.com" width="50%"/> 
 </div>
-<h1><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="40px"/>Bootcamp - Java Full Stack </h1>
+<h1>Bootcamp - C# Full Stack </h1>
 
 <br />
 
