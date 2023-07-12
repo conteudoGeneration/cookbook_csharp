@@ -21,9 +21,9 @@
 14. <a href="14.md">Classes Abstratas</a>
 15. <a href="15.md">Interfaces</a>
 16. <a href="16.md">Exceptions</a>
-17. <a href="17.md">VAR</a>❌
-18. <a href="18.md">Lambda</a>❌
-19. <a href="19.md">LINQ</a>❌
+17. <a href="17.md">VAR</a>
+18. <a href="18.md">Lambda</a>
+19. <a href="19.md">LINQ</a>
 
 <h2><img src="https://i.imgur.com/DNV9Rxu.png" title="source: imgur.com" width="35px"/>Projeto Conta Bancária</h2>
 
