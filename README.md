@@ -8,11 +8,11 @@
 <table width="100%">
 	<tr>
         <td width="10%"><img src="https://i.imgur.com/PHgmbCh.png" title="source: imgur.com" /></td>
-        <td width="90%"><a href="00_ambiente/README.md">Preparação do Ambiente</a>❌</td>
+        <td width="90%"><a href="00_ambiente/README.md">Preparação do Ambiente</a>⚠</td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/DNV9Rxu.png" title="source: imgur.com"/></td>
-        <td><a href="01_csharp/README.md">Programação de Computadores com C#</a>⚠</td>
+        <td><a href="01_csharp/README.md">Programação de Computadores com C#</a>✔</td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/cDPH4tl.png" title="source: imgur.com"/></td>
@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/38hZn7Z.png" title="source: imgur.com" /></td>
-        <td><a href="03_mssql/README.md">Banco de dados com SQL Server</a>❌</td>
+        <td><a href="03_mssql/README.md">Banco de dados com SQL Server</a>⚠</td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/wHTDfQ2.png" title="source: imgur.com"/></td>

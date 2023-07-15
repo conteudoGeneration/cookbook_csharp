@@ -42,8 +42,7 @@
 
 1. <a href="b01.md">Classe Math</a>
 2. <a href="b02.md">Classe String</a>
-3. <a href="b03.md">Classe DateTime</a>❌
-4. <a href="b05.md">Debug</a>❌
+3. <a href="b03.md">Classe DateTime</a>
 
 <br /><br />
 	
