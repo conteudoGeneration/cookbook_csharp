@@ -32,15 +32,15 @@
 
 <div align="center"><img src="https://i.imgur.com/RT9cmJx.png" title="source: imgur.com" /></div>
 
-7. Clique em **Fechar** e **Reinicie** o sistema para finalizar instalação.
+7. Aguarde a conclusão da instalação.
 
 <div align="center"><img src="https://i.imgur.com/lpPj0Mr.png" title="source: imgur.com" /></div>
 
-8. Clique em **Fechar** e **Reinicie** o sistema para finalizar instalação.
+8. Antes de finalizar instalação, vamos instalar o **SQL Server Management Studio**, a IDE do SQL Server.
 
 <div align="center"><img src="https://i.imgur.com/PDrkl8P.png" title="source: imgur.com" /></div>
 
-9. Clique em **Fechar** e **Reinicie** o sistema para finalizar instalação.
+9. Clique no botão **Instalar o SSMS** para instalar o **SQL Server Management Studio**.
 
 <div align="center"><img src="https://i.imgur.com/Udkb8ym.png" title="source: imgur.com" /></div>
 
@@ -50,7 +50,7 @@
 
 
 
-1. Após clicar no botão Instalar o **SSMS** - SQL Server Management Studio, você será redirecionado para o site da Microsoft, para efetuar o download.
+1. Após clicar no botão Instalar o **SSMS** - **SQL Server Management Studio**, você será redirecionado para o site da Microsoft, para efetuar o download.
 
 2. Caso não seja redirecionado, acesse o <a href="https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16#download-ssms" target="_blank">Link</a>, e faça download clicando em **Download gratuito do SSMS (SQL Server Management Studio) 19.1**, como mostra a imagem abaixo:
 
@@ -76,6 +76,8 @@
 
 <div align="center"><img src="https://i.imgur.com/MSDzh1Q.png" title="source: imgur.com" /></div>
 
+8. Neste momento, pode acontecer do SQL Server pedir para reiniciar o seu computador para finalizar a configuração.
+
 <br />
 
 <h2>3. Configurando o SSMS (SQL Server Management Studio)</h2>
@@ -88,17 +90,17 @@
   <img src="https://i.imgur.com/8Vi8dim.png" title="source: imgur.com" />
 </div>
 
-2. Uma vez que estamos no **SQL Server Management Studio** precisamos nos conectar com o **SQL Server**, através da tela abaixo:
+2. Uma vez que estamos no **SQL Server Management Studio** precisamos nos conectar com o **SQL Server**, através da tela abaixo. Observe que no item Nome do Servidor, o SQL Server inseriu o nome do seu computador (hostname).
 
 <div align="center"><img src="https://i.imgur.com/27klobI.png" title="source: imgur.com" /></div>
 
-3. Configure a sua conexão igual a imagem abaixo, alterando o item **Nome do servidor** para **localhost**:
+3. Configure a sua conexão igual a imagem abaixo, alterando o item **Nome do servidor** para **localhost** e clique no botão **Conectar**
 
 <div align="center"><img src="https://i.imgur.com/ue0tGWa.png" title="source: imgur.com" /></div>
 
 <br />
 
-| <img src="https://i.imgur.com/RfjtOFi.png" title="source: imgur.com" width="100px"/> | <div align="left">**DICA:** *Caso localhost não funcione, mantenha o nome do seu computador no item Nome do servidor e clique em Conectar.* </div> |
+| <img src="https://i.imgur.com/RfjtOFi.png" title="source: imgur.com" width="100px"/> | <div align="left">**DICA:** *Caso a mudança para localhost gere um erro de conexão com o SQL Server, mantenha o nome do seu computador no item Nome do servidor e clique em Conectar.* </div> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <br />
