@@ -10,7 +10,7 @@
 
    
 
-<h2>1. Instalando SQLServer</h2>
+<h2>1. Instalando SQL Server</h2>
 
 1. Acesse o <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank">Link</a> e role a tela para baixo até encontrar o conteúdo da imagem abaixo:
 
