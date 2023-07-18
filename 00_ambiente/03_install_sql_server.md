@@ -1,8 +1,8 @@
-<h1>Instalação SQLServer e SSMS</h1>
+<h1>Instalação SQL Server e SSMS</h1>
 
 
 
-1. Instalando SQLServer
+1. Instalando SQL Server
 
 2. Instalando SSMS (SQL Server Management Studio)
 
