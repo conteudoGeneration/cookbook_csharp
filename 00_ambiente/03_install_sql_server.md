@@ -1,5 +1,7 @@
 <h1>Instalação SQLServer e SSMS</h1>
 
+
+
 1. Instalando SQLServer
 
 2. Instalando SSMS (SQL Server Management Studio)
@@ -74,41 +76,62 @@
 
 <div align="center"><img src="https://i.imgur.com/MSDzh1Q.png" title="source: imgur.com" /></div>
 
+<br />
+
 <h2>3. Configurando o SSMS (SQL Server Management Studio)</h2>
 
 
 
-<div align="center"><img src="mudar" title="source: imgur.com" /></div>
+1. Após concluir a instalação do **SQL Server Management Studio**, podemos iniciar a ferramenta através da caixa de pesquisa da sua barra de tarefas, ou no menu iniciar do seu sistema operacional.
 
+<div align="center">
+  <img src="https://i.imgur.com/8Vi8dim.png" title="source: imgur.com" />
+</div>
 
+2. Uma vez que estamos no **SQL Server Management Studio** precisamos nos conectar com o **SQL Server**, através da tela abaixo:
 
-<div align="center"><img src="mudar" title="source: imgur.com" /></div>
+<div align="center"><img src="https://i.imgur.com/27klobI.png" title="source: imgur.com" /></div>
 
+3. Configure a sua conexão igual a imagem abaixo, alterando o item **Nome do servidor** para **localhost**:
 
+<div align="center"><img src="https://i.imgur.com/ue0tGWa.png" title="source: imgur.com" /></div>
 
-<div align="center"><img src="mudar" title="source: imgur.com" /></div>
+<br />
 
+| <img src="https://i.imgur.com/RfjtOFi.png" title="source: imgur.com" width="100px"/> | <div align="left">**DICA:** *Caso localhost não funcione, mantenha o nome do seu computador no item Nome do servidor e clique em Conectar.* </div> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
+<br />
 
-<div align="center"><img src="mudar" title="source: imgur.com" /></div>
+4. Será aberta a janela principal do **SQL Server Management Studio**:
 
+<div align="center"><img src="https://i.imgur.com/KjCzLoH.png" title="source: imgur.com" /></div>
 
+5. Caso a janela de consultas (**SQLQuery1.sql**) não tenha sido aberta automaticamente, na Barra de Ferramentas do **SQL Server Management Studio**, clique no botão **Nova Consulta**:
 
-<div align="center"><img src="mudar" title="source: imgur.com" /></div>
+<div align="center"><img src="https://i.imgur.com/gjdIRZ1.png" title="source: imgur.com" /></div>
 
+6. Nesta janela (destacada com a cor verde), onde vamos criar as nossas instruções SQL.
 
+<div align="center"><img src="https://i.imgur.com/IjIXRLb.png" title="source: imgur.com" /></div>
 
-<div align="center"><img src="mudar" title="source: imgur.com" /></div>
+7. Digite o código abaixo:
 
+```sql
+select @@version
+```
 
+8. Clique no botão **Executar**, localizado na Barra de Ferramentas do **SQL Server Management Studio**, como mostra a imagem abaixo:
 
-<div align="center"><img src="mudar" title="source: imgur.com" /></div>
+<div align="center"><img src="https://i.imgur.com/3EXuyTV.png" title="source: imgur.com" /></div>
 
+9. O resultado você confere na imagem abaixo:
 
+<div align="center"><img src="https://i.imgur.com/UMXrSn0.png" title="source: imgur.com" /></div>
 
-<div align="center"><img src="mudar" title="source: imgur.com" /></div>
+Se o comando acima exibir a versão do SQL Server, a instalação e configuração foi concluída com êxito!
 
+<br />
+<br />
 
-
-<div align="center"><img src="mudar" title="source: imgur.com" /></div>
-
+<div align="left"><a href="README.md"><img src="https://i.imgur.com/XMgF3gl.png" title="source: imgur.com" width="3%"/>Voltar</a></div>
