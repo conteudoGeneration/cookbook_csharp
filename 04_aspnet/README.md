@@ -8,7 +8,7 @@
 1. <a href="01.md" >Introdução ao ASP.NET</a>❌
 2. <a href="02.md" >Primeiros passos com ASP.NET</a>❌
 3. <a href="03.md" >Introdução ao Entity Framework</a>❌
-4. <a href="04.md" >Projeto Blog Pessoal - Projeto ASP.NET</a>❌
+4. <a href="04.md" >Projeto Blog Pessoal - Projeto ASP.NET</a>
 5. <a href="05.md" >Projeto Blog Pessoal - Database Context</a>❌
 6. <a href="06.md" >Projeto Blog Pessoal - Classe Postagem Model</a>❌
 7. <a href="07.md" >Projeto Blog Pessoal - Interface Postagem Repository</a>❌
