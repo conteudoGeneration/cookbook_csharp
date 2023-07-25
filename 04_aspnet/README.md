@@ -14,8 +14,8 @@
 7. <a href="07.md" >Projeto Blog Pessoal - Interface e Classe Postagem Service</a>
 8. <a href="08.md" >Projeto Blog Pessoal - Classe Postagem Controller - Método Listar tudo</a>
 9. <a href="09.md" >Projeto Blog Pessoal - Classe Postagem Controller - Método Buscar por id</a>
-10. <a href="10.md" >Projeto Blog Pessoal - Classe Postagem Controller - Método Buscar por título</a>❌
-11. <a href="11.md" >Projeto Blog Pessoal - Classe Postagem Controller - Método Cadastrar</a>❌
+10. <a href="10.md" >Projeto Blog Pessoal - Classe Postagem Controller - Método Buscar por título</a>
+11. <a href="11.md" >Projeto Blog Pessoal - Classe Postagem Controller - Método Cadastrar</a>
 12. <a href="12.md" >Projeto Blog Pessoal - Classe Postagem Controller - Método Atualizar</a>❌
 13. <a href="13.md" >Projeto Blog Pessoal - Classe Postagem Controller - Método Apagar</a>❌
 14. <a href="14.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 01</a>❌
