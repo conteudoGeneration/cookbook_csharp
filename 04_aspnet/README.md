@@ -21,18 +21,19 @@
 12. <a href="12.md" >Projeto Blog Pessoal - Classe Postagem Controller - Método Atualizar</a>✔
 13. <a href="13.md" >Projeto Blog Pessoal - Classe Postagem Controller - Método Apagar</a>✔
 14. <a href="14.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 01</a>✔
-15. <a href="15.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 02</a>❌
+15. <a href="15.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 02</a>✔
 16. <a href="16.md" >Introdução a ASP.NET - Security</a>❌
-17. <a href="17.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema do Usuário - Parte 01</a>❌
-18. <a href="18.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema da Segurança - Parte 01</a>❌
-19. <a href="19.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema da Segurança - Parte 02</a>❌
-20. <a href="20.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema da Segurança - Parte 03</a>❌
-21. <a href="21.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema do Usuário - Parte 02</a>❌
-22. <a href="22.md" >Introdução ao xUnit</a>❌
+17. <a href="17.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema do Usuário - Parte 01</a>✔
+18. <a href="18.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema do Usuário - Parte 02</a>❌
+19. <a href="19.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema da Segurança - Parte 01</a>❌
+20. <a href="20.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema da Segurança - Parte 02</a>❌
+21. <a href="22.md" >Introdução ao xUnit</a>❌
 23. <a href="23.md" >Projeto Blog Pessoal - Testes E2E - Criando e Configurando o Projeto xUnit</a>❌
 24. <a href="24.md" >Projeto Blog Pessoal - Testes E2E - Testes na Camada Controller</a>❌
 25. <a href="25.md" >Projeto Blog Pessoal - Personalizando o Swagger</a>❌
 26. <a href="26.md" >Projeto Blog Pessoal - Deploy no Render via Github</a>❌
+
+<br />
 
 <h2><img src="https://i.imgur.com/wHTDfQ2.png" title="source: imgur.com" width="35px"/>Anexos</h2>
 
