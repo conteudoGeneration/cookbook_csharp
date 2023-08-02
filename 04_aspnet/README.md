@@ -8,7 +8,7 @@
 <h2><img src="https://i.imgur.com/wHTDfQ2.png" title="source: imgur.com" width="35px"/>Backend - ASP.NET</h2>
 
 1. <a href="01.md" >Introdução ao ASP.NET</a>✔
-2. <a href="02.md" >Primeiros passos com ASP.NET</a>❌
+2. <a href="02.md" >Primeiros passos com ASP.NET</a>✔
 3. <a href="03.md" >Introdução ao Entity Framework</a>✔
 4. <a href="04.md" >Projeto Blog Pessoal - Projeto ASP.NET</a>✔
 5. <a href="05.md" >Projeto Blog Pessoal - Database Context</a>✔
@@ -24,14 +24,13 @@
 15. <a href="15.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 02</a>✔
 16. <a href="16.md" >Introdução a ASP.NET - Security</a>❌
 17. <a href="17.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema do Usuário - Parte 01</a>✔
-18. <a href="18.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema do Usuário - Parte 02</a>❌
-19. <a href="19.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema da Segurança - Parte 01</a>❌
-20. <a href="20.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema da Segurança - Parte 02</a>❌
-21. <a href="22.md" >Introdução ao xUnit</a>❌
-23. <a href="23.md" >Projeto Blog Pessoal - Testes E2E - Criando e Configurando o Projeto xUnit</a>❌
-24. <a href="24.md" >Projeto Blog Pessoal - Testes E2E - Testes na Camada Controller</a>❌
-25. <a href="25.md" >Projeto Blog Pessoal - Personalizando o Swagger</a>❌
-26. <a href="26.md" >Projeto Blog Pessoal - Deploy no Render via Github</a>❌
+18. <a href="18.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema do Usuário - Parte 02</a>✔
+19. <a href="19.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema da Segurança</a>✔
+20. <a href="20.md" >Introdução ao xUnit</a>❌
+21. <a href="21.md" >Projeto Blog Pessoal - Testes E2E - Criando e Configurando o Projeto xUnit</a>❌
+22. <a href="22.md" >Projeto Blog Pessoal - Testes E2E - Testes na Camada Controller</a>❌
+23. <a href="23.md" >Projeto Blog Pessoal - Personalizando o Swagger</a>❌
+24. <a href="24.md" >Projeto Blog Pessoal - Deploy no Render via Github</a>❌
 
 <br />
 
