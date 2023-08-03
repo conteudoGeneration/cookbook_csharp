@@ -22,13 +22,13 @@
 13. <a href="13.md" >Projeto Blog Pessoal - Classe Postagem Controller - Método Apagar</a>✔
 14. <a href="14.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 01</a>✔
 15. <a href="15.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 02</a>✔
-16. <a href="16.md" >Introdução a ASP.NET - Security</a>❌
+16. <a href="16.md" >Introdução a ASP.NET - Security</a>✔
 17. <a href="17.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema do Usuário - Parte 01</a>✔
 18. <a href="18.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema do Usuário - Parte 02</a>✔
 19. <a href="19.md" >Projeto Blog Pessoal - ASP.NET Security - Ecossistema da Segurança</a>✔
 20. <a href="20.md" >Introdução ao xUnit</a>❌
-21. <a href="21.md" >Projeto Blog Pessoal - Testes E2E - Criando e Configurando o Projeto xUnit</a>❌
-22. <a href="22.md" >Projeto Blog Pessoal - Testes E2E - Testes na Camada Controller</a>❌
+21. <a href="21.md" >Projeto Blog Pessoal - Testes E2E - Criando e Configurando o Projeto xUnit</a>✔
+22. <a href="22.md" >Projeto Blog Pessoal - Testes E2E - Testes na Camada Controller</a>✔
 23. <a href="23.md" >Projeto Blog Pessoal - Personalizando o Swagger</a>❌
 24. <a href="24.md" >Projeto Blog Pessoal - Deploy no Render via Github</a>❌
 
