@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/DNV9Rxu.png" title="source: imgur.com" width="25%"/>
+    <img src="https://i.imgur.com/5GxDNND.png" title="source: imgur.com" width="50%"/>
 </div>
 <h1>Bootcamp - C# Full Stack </h1>
 
